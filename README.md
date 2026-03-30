@@ -1,6 +1,4 @@
-# My Finance
-
-## _Por Gianluca Onisanti_
+# My Finance - _Por Gianluca Onisanti_
 
 Aplicativo de finanças pessoais feito com Streamlit. Funciona como uma planilha financeira interativa onde você cadastra suas receitas, despesas e metas, e acompanha tudo por dashboards e relatórios.
 
